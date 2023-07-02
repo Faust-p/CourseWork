@@ -1,0 +1,14 @@
+D:\PGU\nadkin\Курсовая\Interpolation\Interpolation\bin\Debug\Interpolation.exe.config
+D:\PGU\nadkin\Курсовая\Interpolation\Interpolation\bin\Debug\Interpolation.exe
+D:\PGU\nadkin\Курсовая\Interpolation\Interpolation\bin\Debug\Interpolation.pdb
+D:\PGU\nadkin\Курсовая\Interpolation\Interpolation\obj\Debug\Interpolation.csproj.AssemblyReference.cache
+D:\PGU\nadkin\Курсовая\Interpolation\Interpolation\obj\Debug\Interpolation.csproj.SuggestedBindingRedirects.cache
+D:\PGU\nadkin\Курсовая\Interpolation\Interpolation\obj\Debug\Interpolation.Form1.resources
+D:\PGU\nadkin\Курсовая\Interpolation\Interpolation\obj\Debug\Interpolation.Properties.Resources.resources
+D:\PGU\nadkin\Курсовая\Interpolation\Interpolation\obj\Debug\Interpolation.csproj.GenerateResource.cache
+D:\PGU\nadkin\Курсовая\Interpolation\Interpolation\obj\Debug\Interpolation.csproj.CoreCompileInputs.cache
+D:\PGU\nadkin\Курсовая\Interpolation\Interpolation\obj\Debug\Interpolation.exe
+D:\PGU\nadkin\Курсовая\Interpolation\Interpolation\obj\Debug\Interpolation.pdb
+D:\PGU\nadkin\Курсовая\Interpolation\Interpolation\bin\Debug\InterpolatiomLibrary.dll
+D:\PGU\nadkin\Курсовая\Interpolation\Interpolation\bin\Debug\InterpolatiomLibrary.pdb
+D:\PGU\nadkin\Курсовая\Interpolation\Interpolation\obj\Debug\Interpolation.csproj.CopyComplete

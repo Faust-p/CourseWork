@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interpolation", "Interpolation\Interpolation.csproj", "{28DD2681-52C6-4F3E-BDC0-44D2FD21CC8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterpolationLibrary", "InterpolatiomLibrary\InterpolationLibrary.csproj", "{9E93BDC9-EF44-488B-9DF0-5DEF378ECC71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28DD2681-52C6-4F3E-BDC0-44D2FD21CC8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28DD2681-52C6-4F3E-BDC0-44D2FD21CC8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28DD2681-52C6-4F3E-BDC0-44D2FD21CC8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28DD2681-52C6-4F3E-BDC0-44D2FD21CC8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E93BDC9-EF44-488B-9DF0-5DEF378ECC71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E93BDC9-EF44-488B-9DF0-5DEF378ECC71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E93BDC9-EF44-488B-9DF0-5DEF378ECC71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E93BDC9-EF44-488B-9DF0-5DEF378ECC71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D66B3F02-30E7-4F23-85D7-3ACB5F9DBFC5}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+D:\PGU\nadkin\Курсовая\Interpolation\InterpolatiomLibrary\bin\Debug\InterpolatiomLibrary.dll
+D:\PGU\nadkin\Курсовая\Interpolation\InterpolatiomLibrary\bin\Debug\InterpolatiomLibrary.pdb
+D:\PGU\nadkin\Курсовая\Interpolation\InterpolatiomLibrary\obj\Debug\InterpolationLibrary.csproj.AssemblyReference.cache
+D:\PGU\nadkin\Курсовая\Interpolation\InterpolatiomLibrary\obj\Debug\InterpolationLibrary.csproj.CoreCompileInputs.cache
+D:\PGU\nadkin\Курсовая\Interpolation\InterpolatiomLibrary\obj\Debug\InterpolatiomLibrary.dll
+D:\PGU\nadkin\Курсовая\Interpolation\InterpolatiomLibrary\obj\Debug\InterpolatiomLibrary.pdb
